@@ -37,7 +37,7 @@ LSTM-based model for predicting item prices in Old School RuneScape.
 
 **SVM for predicting schizophrenia on graymatter volume differences**
 
-Exploring food delivery data across time and geography with Python visualizations.
+FIX LATER
 
 **Eyetracking Thesis Analysis**
 
